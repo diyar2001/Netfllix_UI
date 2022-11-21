@@ -7,6 +7,8 @@ class Homepage extends StatefulWidget {
 }
 
 class _HomepageState extends State<Homepage> {
+
+  //image links
   List tempo = [
     'https://imgs.search.brave.com/dKdtLXT1HMdCM3I4SIONZ0aXQVCmqGnuaVTKSg-JhGs/rs:fit:320:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5k/ZXlXUkttdzVJdzJ6/U3V4SEZsa3pRSGFL/OSZwaWQ9QXBp',
     'https://imgs.search.brave.com/gRy97D9WjRR3hJp3MbkgjhN9UGzpEyF4oGSIhcV42Bc/rs:fit:249:225:1/g:ce/aHR0cHM6Ly90c2Ux/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5PamRLcm5P/YmFxZEUydzByMUY5/VFFBSGFPRyZwaWQ9/QXBp',
